@@ -5,7 +5,7 @@
 ### I am looking for a full-time Medical Devices Engineering position in the Bay Area, with a start date after May 2023.
 
 
-### [About Me](https://Lmmk416.github.io/aboutme.pdf)
+### [About Me](https://Lmmk416.github.io/AboutMe.pdf)
 
 
 
