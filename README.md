@@ -25,6 +25,8 @@ Below I have a table of all of my undergraduate projects. To see a project, clic
 
 | Project Name | Project Year   | Course Code | Course Name |
 | ------------- | ------------- | ------------- |------------- |
+| **3D Printed, Anatomically Correct Hand for Orthopedic Surgical Training** | Fall 2021 - Present | BE494 | Senior Design |
+
 | **Wind Turbine**  | Fall 2018  | EAS199 | UB SEAS Seminar |
 | Great Pacific Garbage Patch  | Spring 2019  | EAS202 | Engineering Impact on Society |
 | Portable Ultra Sound To Detect Early Signs of Miscarriage | Summer 2019 | BE201 | Principles of Biomedical Engineering | 
@@ -45,5 +47,5 @@ Below I have a table of all of my undergraduate projects. To see a project, clic
 | Total Ankle Replacement | Spring 2022 | BE450 | Orthopedics Science and Engineering | 
 | Circadian Rhythms | Spring 2022 | BE406 | Biological Systems Engineering | 
 | Anaylzing Biomechanics of Squats, Lunges, and Side Lunges | Spring 2022 | BE436 | Biomechanics of Human Movement |
-| **3D Printed, Anatomically Correct Hand for Orthopedic Surgical Training** | Fall 2021 - Present | BE494 | Senior Design |
+
 
