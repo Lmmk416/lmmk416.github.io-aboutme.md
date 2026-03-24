@@ -2,7 +2,8 @@
  
 ## My name is **Lauren McLaughlin-Kelly** 
 
-### I am looking for a full-time Medical Devices Engineering position in the Bay Area, with a start date after May 2023.
+### I am looking for a full-time Medical Devices Engineering position in the Bay Area. My background sits directly at the intersection of engineering, human anatomy, and operating room medical device technology. In my current role supporting complex electrophysiology procedures, I work closely with physicians and advanced medical device systems in the operating room, where I regularly troubleshoot technology, evaluate procedural workflows, and observe how device design directly impacts clinical outcomes and patient care. Through my master’s work in human anatomy, cadaver-based surgical research, and medical device prototyping, I developed a strong interest in how devices are designed, tested, and improved for real surgical environments.I am particularly interested in working at the intersection of engineering and medicine because this collaboration allows engineers and physicians to help more patients, improve surgical outcomes, and ultimately improve quality of life through better technology and less invasive procedures. 
+
 
 
 ### [About Me](https://Lmmk416.github.io/AboutMe.pdf)
